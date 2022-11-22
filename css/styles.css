@@ -3,7 +3,7 @@ body {
     color: black;
     background-color: #6f71a992;
     font-family: 'Oxygen', sans-serif;
-    background: url('../images/fondo.jpg');
+
 }
 /** HEADER **/
 h1{
@@ -339,4 +339,8 @@ h2{
 
 h5{
     font-size: 20px;
+}
+.btn{
+  background-color:  #2d2d87;
+  padding: 10px;
 }
